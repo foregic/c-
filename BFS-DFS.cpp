@@ -2,7 +2,7 @@
  * @Author       : foregic
  * @Date         : 2021-07-30 09:58:50
  * @LastEditors  : foregic
- * @LastEditTime : 2021-07-30 11:12:58
+ * @LastEditTime : 2021-07-30 11:47:28
  * @FilePath     : \leetcode\BFS-DFS.cpp
  * @Description  : 广度优先搜索和深度优先搜索，题目来源于LeetCode（733和695）
  */
@@ -76,7 +76,7 @@ int dfs(vector<vector<int>> &grid, int i, int j)
 /**
  * @description  : 一个二维矩阵，由0和1组成，一个岛屿由上下左右方向上相连的点组成，返回岛屿的最大面积
  * @param         {vector<vector<int>>} &grid
- * @return        {*}
+ * @return        {int}
  */
 int maxAreaOfIsland(vector<vector<int>> &grid)
 {
