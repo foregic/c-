@@ -10,5 +10,5 @@
 
 目前累计
 
-[733. 图像渲染]([../BFS-DFS.cpp](https://github.com/foregic/leetcode-practice/blob/master/BFS-DFS.cpp))
-[695. 岛屿的最大面积]([../BFS-DFS.cpp](https://github.com/foregic/leetcode-practice/blob/master/BFS-DFS.cpp))
+[733. 图像渲染](https://github.com/foregic/leetcode-practice/blob/master/BFS-DFS.cpp)
+[695. 岛屿的最大面积](https://github.com/foregic/leetcode-practice/blob/master/BFS-DFS.cpp)
